@@ -1,0 +1,8 @@
+E	T	X
+X	+	T	X
+X	~
+T	F	Z
+Z	*	F	Z
+Z	~
+F	(	E	)
+F	id
